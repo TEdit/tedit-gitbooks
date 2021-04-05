@@ -46,5 +46,15 @@ When connecting wires to tiles/sprites make sure they share at least one space t
 
 Points are a little different than the rest. You wont see points in Terraria because they are invisible. Nevertheless, points are just as important and they can be used to shape your world in different ways.
 
-Points refer to the location on the map that something happens. This may be the point where the nurse sleeps. It may be the point where the dungeon starts. It could even be the point where your friends enter the world for the first time to fall to their death, er, start off their adventures.
+Points refer to the location on the map that something happens. This may be the point where the nurse sleeps. It may be the point where the dungeon starts. It could even be the point where your friends enter the world for the first time to fall to their death or start off their adventures.
+
+### World Sizes
+
+These are the default world sizes and background layer levels.
+
+| Size | Width | Height | Surface BG | Cavern BG |
+| :--- | :--- | :--- | :--- | :--- |
+| Small | 4200 | 1200 | 336 | 462 |
+| Medium | 6400 | 1800 | 444 | 624 |
+| Large | 8400 | 2400 | 648 | 954 |
 
