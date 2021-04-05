@@ -8,8 +8,8 @@
 * [Getting Started](basics/getting-started.md)
 * [Components](basics/basics.md)
 * [Toolbar](basics/toolbar.md)
-* [Menu and Info Bars](basics/menu-and-info-bars.md)
 * [Active Tray](basics/active-tray.md)
+* [Menu and Info Bars](basics/menu-and-info-bars.md)
 * [Tips](basics/tips.md)
 
 ## Sidebar Tools
