@@ -9,8 +9,8 @@
 These are requirements these, if you are having issues please uninstall/reinstall the following dependencies.
 {% endhint %}
 
-* Latest DotNet Framework [https://www.microsoft.com/net](https://www.microsoft.com/net)
-* DirectX 11: [https://support.microsoft.com/en-us/kb/179113](https://support.microsoft.com/en-us/kb/179113)
+* [Latest DotNet Framework](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
+* [DirectX 11](https://support.microsoft.com/en-us/kb/179113)
 * Update your Graphics Driver to latest release \(not beta\) version
 * Only Windows 10 x64 has been tested, previous versions \(XP, 7, 8\) are _**NOT guaranteed**_ to work and support will be limited.
 
