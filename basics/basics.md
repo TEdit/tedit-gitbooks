@@ -48,7 +48,7 @@ Points are a little different than the rest. You wont see points in Terraria bec
 
 Points refer to the location on the map that something happens. This may be the point where the nurse sleeps. It may be the point where the dungeon starts. It could even be the point where your friends enter the world for the first time to fall to their death or start off their adventures.
 
-### World Sizes
+## World Sizes
 
 These are the default world sizes and background layer levels.
 
