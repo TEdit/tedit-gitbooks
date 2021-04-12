@@ -25,9 +25,9 @@ These are requirements these, if you are having issues please uninstall/reinstal
 
   NOTE: Remove the `<!--` and `-->` to uncomment the line
 
-  ![altc](.gitbook/assets/altc.png)
+![](.gitbook/assets/altc%20%282%29.png)
 
-  ![gog](.gitbook/assets/gog.png)
+![](.gitbook/assets/gog%20%281%29.png)
 
 ## Known Limitations
 
