@@ -42,4 +42,5 @@ This searched the world for Plantera's Bulb and returns any found locations.
 
 ## Procedural House Generator
 
-See
+See [House Generator Plugin](house-generator-plugin.md)
+

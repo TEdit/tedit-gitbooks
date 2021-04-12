@@ -20,7 +20,7 @@ You can also start the program from the folder it was installed in - it should b
 
 ## Moving around in the Editor
 
-To pan \(move around\) the view of your world use the scrollbars located at the bottom and side, or hold down the middle-mouse button and move your mouse around, or use the arrow keys [Shortcuts and Keybindings](../configuration-1/shortcuts-and-keybindings.md).
+To pan \(move around\) the view of your world use the scrollbars located at the bottom and side, or hold down the middle-mouse button and move your mouse around, or use the arrow keys [Shortcuts and Keybindings](../configuration/shortcuts-and-keybindings.md).
 
 To zoom in or out of the map roll you mouse wheel. You can also use Ctrl+= and Ctrl+- \(these are the keys above and to the right of “P” on a Qwerty keyboard\). The zooming will occur at the position of your cursor and won't occur at all if the cursor is not within the bounds of the world display.
 

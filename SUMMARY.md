@@ -20,9 +20,9 @@
 
 ## Configuration
 
-* [Settings](configuration-1/settings.md)
-* [Saves and Backups](configuration-1/saves-and-backups.md)
-* [Shortcuts and Keybindings](configuration-1/shortcuts-and-keybindings.md)
+* [Settings](configuration/settings.md)
+* [Saves and Backups](configuration/saves-and-backups.md)
+* [Shortcuts and Keybindings](configuration/shortcuts-and-keybindings.md)
 
 ## Advanced
 
