@@ -14,7 +14,7 @@ This uses the selected tile to randomly place "ore nodes" throughout the map, be
 
 ## Replace All Tiles
 
-This replaces all tiles one type with another.
+This replaces all tiles one type with another. The `mask` selection will be replaced by the `tile` selection.
 
 ![Replace All](../.gitbook/assets/plugins-replace-all.png)
 
