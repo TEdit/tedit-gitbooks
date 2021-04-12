@@ -33,5 +33,6 @@
 
 ## Plugins
 
+* [Plugins](plugins/plugins.md)
 * [House Generator Plugin](plugins/house-generator-plugin.md)
 
