@@ -10,13 +10,13 @@ This makes all sand fall in the world.
 
 This uses the selected tile to randomly place "ore nodes" throughout the map, below the surface level.
 
-![plugin menu](../.gitbook/assets/plugin-simple-ore.png)
+![Simple Ore Generator](../.gitbook/assets/plugins-simple-ore.png)
 
 ## Replace All Tiles
 
 This replaces all tiles one type with another.
 
-![plugin menu](../.gitbook/assets/plugin-replace-all.png)
+![Replace All](../.gitbook/assets/plugins-replace-all.png)
 
 ## Remove All Chests
 
@@ -34,7 +34,7 @@ This replaces all locked chests with their unlocked variant.
 
 This searches the world for chests containing a specific item and returns the coordinates.
 
-![plugin menu](../.gitbook/assets/plugin-find-chest.png)
+![Find Chest](../.gitbook/assets/plugins-find-chest.png)
 
 ## Find Plantera's Bulb
 
