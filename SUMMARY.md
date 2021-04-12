@@ -18,7 +18,7 @@
 * [Clipboard](sidebar-tools/clipboard.md)
 * [Chest-Editor](sidebar-tools/chest-editor.md)
 
-## Configuration <a id="configuration-1"></a>
+## Configuration
 
 * [Settings](configuration-1/settings.md)
 * [Saves and Backups](configuration-1/saves-and-backups.md)
