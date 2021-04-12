@@ -1,3 +1,3 @@
 # House Generator Plugin
 
-![](.gitbook/assets/house-gen.png)
+![](../.gitbook/assets/house-gen.png)
