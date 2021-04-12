@@ -18,6 +18,11 @@
 * [Clipboard](sidebar-tools/clipboard.md)
 * [Chest-Editor](sidebar-tools/chest-editor.md)
 
+## Plugins
+
+* [Plugins](plugins/plugins.md)
+* [House Generator Plugin](plugins/house-generator-plugin.md)
+
 ## Configuration
 
 * [Settings](configuration/settings.md)
@@ -30,9 +35,4 @@
 * [Troubleshooting](advanced/troubleshooting.md)
 * [Corrupted World Recovery](advanced/corrupted-world-recovery.md)
 * [Image Schematics](advanced/image-schematics.md)
-
-## Plugins
-
-* [Plugins](plugins/plugins.md)
-* [House Generator Plugin](plugins/house-generator-plugin.md)
 
