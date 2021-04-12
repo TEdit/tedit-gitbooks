@@ -1,3 +1,7 @@
+---
+description: Description and usage of each TEdit plugin
+---
+
 # Plugins
 
 ![plugin menu](../.gitbook/assets/plugins.png)
