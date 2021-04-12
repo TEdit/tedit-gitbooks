@@ -31,3 +31,7 @@
 * [Corrupted World Recovery](advanced/corrupted-world-recovery.md)
 * [Image Schematics](advanced/image-schematics.md)
 
+## Plugins
+
+* [House Generator Plugin](plugins/house-generator-plugin.md)
+

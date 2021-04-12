@@ -1,0 +1,2 @@
+# House Generator Plugin
+
