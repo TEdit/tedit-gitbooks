@@ -1,8 +1,8 @@
 # Tools
 
-The tool section is located on the left of the editor.
+The tool section is located on the left of the editor, below the basic menu buttons.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ## Arrow Tool \[A\]
 
@@ -154,7 +154,7 @@ The fill tool use the [Paint Mode Tray](Active-Tray#wiki-Paint_Mode_Tray) to sel
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 #### Options
 
@@ -203,7 +203,7 @@ Use the drop down to select a tile type, then the grid to select a style. All st
 
 ## Morph Tool
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
