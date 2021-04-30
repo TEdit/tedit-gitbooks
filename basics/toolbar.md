@@ -21,6 +21,10 @@ With the arrow tool selected it is impossible to make any accidental changes to 
 
 With the arrow tool selected you can also right-click on chests and signs to see what is inside and edit them. See the [Chest Editor](Chest%20Editor) page for more details.
 
+{% page-ref page="../sidebar-tools/chest-editor.md" %}
+
+{% page-ref page="menu-and-info-bars.md" %}
+
 ## Selection Tool \[S\]
 
 The selection tool button looks like a blue square.
@@ -91,7 +95,7 @@ The pencil tool paints only one tile at a time. This makes it exceptionally usef
 
 ![](../.gitbook/assets/tedit_pencil_drawing.png)
 
-### Line Drawing
+#### How To: Straight Line Drawing
 
 * **Click start position, hold shift, click end position:** You can also draw a line from one point to another by clicking your starting point, holding Shift and clicking on your end point.
 * **Left Mouse Button**: you will have free drawing - i.e. you can draw in any way you like.
@@ -99,6 +103,8 @@ The pencil tool paints only one tile at a time. This makes it exceptionally usef
 * **Hold Left AND Right Mouse Button**: at the same time you can draw vertical straight lines. 
 
 The pencil tool uses the [Paint Mode Tray](Active-Tray#wiki-Paint_Mode_Tray) to select what you paint.
+
+{% page-ref page="active-tray.md" %}
 
 ## Brush Tool \[B\]
 

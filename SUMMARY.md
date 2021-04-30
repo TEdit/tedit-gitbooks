@@ -16,7 +16,7 @@
 
 * [World Properties](sidebar-tools/world-properties.md)
 * [Clipboard](sidebar-tools/clipboard.md)
-* [Chest-Editor](sidebar-tools/chest-editor.md)
+* [Chest Editor](sidebar-tools/chest-editor.md)
 
 ## Plugins
 

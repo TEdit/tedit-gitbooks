@@ -8,6 +8,14 @@ description: Working with and managing schematics.
 If you do not see the clipboard \(located on the right-hand side of the editor\) you may have to click the utilities button \(also located on the right\) to make it 'pop out'.
 {% endhint %}
 
+#### Options
+
+| Command | Activity |
+| :--- | :--- |
+| `ctrl+c` | Copy selection to clipboard. |
+| `ctrl+v` | Paste last selection to cursor. |
+| `rightclick` | When `paste` is active, place the clipboard item or schematic into the map. |
+
 ### Empty Clipboard
 
 This button removes all loaded schematics. Handy!
