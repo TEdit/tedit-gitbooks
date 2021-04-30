@@ -6,8 +6,8 @@
 ## Basics
 
 * [Getting Started](basics/getting-started.md)
-* [Components](basics/basics.md)
-* [Toolbar](basics/toolbar.md)
+* [World Components](basics/basics.md)
+* [Tools](basics/toolbar.md)
 * [Active Tray](basics/active-tray.md)
 * [Menu and Info Bars](basics/menu-and-info-bars.md)
 * [Tips](basics/tips.md)

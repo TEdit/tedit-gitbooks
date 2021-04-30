@@ -2,7 +2,7 @@
 description: Map tiles and entities
 ---
 
-# Components
+# World Components
 
 The Terraria world is made up of a variety of things. Unlike Terraria itself, TEdit can place these things pretty much anywhere in the map and will not try to restrict you. However, when the map is loaded up in Terraria the game will sort these out one way or another - gravity-adhering blocks and liquids will be settled, while sprites will break \(drop as an item\) if there is nothing solid underneath them.
 
