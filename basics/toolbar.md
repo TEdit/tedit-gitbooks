@@ -47,7 +47,7 @@ While there is a selection rectangle present painting can only be done inside th
 
 ![](../.gitbook/assets/tedit_selection_drawing.png)
 
-This tool is also used to copy part of the map. To do this select what you want to copy, then use the copy button on the toolbar, the copy function in the menubar, or press Ctrl+C.
+This tool is also used to copy part of the map. To do this select what you want to copy, then use the copy button on the toolbar, the copy function in the `menubar`, or press `ctrl+c`.
 
 ## Picker Tool
 
