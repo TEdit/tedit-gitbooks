@@ -1,5 +1,9 @@
 # House Generator Plugin
 
+{% hint style="warning" %}
+This plugin is under development and features may change or be added.
+{% endhint %}
+
 ![](../.gitbook/assets/house-gen%20%281%29.png)
 
 The house gen plugin adds a system to generate random versions of structures, or other arbitrary features, from a specially formatted schematic template. The schematic template consists of two separate files, a `.TEditHGSch` file and a `.JSON` file. The files must be named identically except for their associated extension.
