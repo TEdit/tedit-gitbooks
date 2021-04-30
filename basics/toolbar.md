@@ -2,6 +2,8 @@
 
 The tool section is located on the left of the editor.
 
+![](../.gitbook/assets/image%20%2830%29.png)
+
 ## Arrow Tool \[A\]
 
 The arrow tool looks like an arrow cursor, the same as the one your used to using when using your computer.
@@ -201,7 +203,7 @@ Use the drop down to select a tile type, then the grid to select a style. All st
 
 ## Morph Tool
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
