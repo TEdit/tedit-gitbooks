@@ -11,7 +11,9 @@ The Tips page can be used to share any general tips with others on how to use th
 
 ## Step 1: Check the Error Log
 
-Logs are located in **"My Documents"\My Games\Terraria\TEditLog.txt**
+Logs are located in `%appdata%\TEdit\Logs`
+
+![Logs Path](../.gitbook/assets/image%20%2833%29.png)
 
 ### General Troubleshooting
 
@@ -35,5 +37,5 @@ If it still doesn't work, create a ticket with the contents/link of your error l
 
 Include in your ticket any further information you can give that leads up to the problem as this may help narrow down the issue.
 
-You can find your log through TEdit's View Log option under Help, or in the Documents/My Games/Terraria folder. If the contents of `log.txt` is quite large it may be more useful to upload it to one of the paste sites.
+You can find your log through TEdit's View Log option under Help, or in the `%appdata%\TEdit\Logs`. If the contents of `log.txt` is quite large it may be more useful to upload it to one of the paste sites.
 
