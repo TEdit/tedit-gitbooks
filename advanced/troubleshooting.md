@@ -21,7 +21,7 @@ Logs are located in `%appdata%\TEdit\Logs`
 3. Delete the folder you have unzipped TEdit into and download a fresh copy from [releases](https://github.com/TEdit/Terraria-Map-Editor/releases).
 4. Unzip the new download into an empty folder, such as `c:\games\tedit`.S
 
-### Step 4: Discord or GitHub Issue
+## Step 4: Discord or GitHub Issue
 
 Join the [Discord Support Channel](https://discord.gg/SrwYZU2GDY) and ask for help!
 
