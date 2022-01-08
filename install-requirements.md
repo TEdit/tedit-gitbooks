@@ -2,9 +2,9 @@
 
 * Download the latest release from [https://github.com/TEdit/Terraria-Map-Editor/releases/latest](https://github.com/TEdit/Terraria-Map-Editor/releases/latest)
 * Scroll to the bottom, and ensure you download the TEdit(version).zip File
-* ![](<.gitbook/assets/image (35).png>)
+* ![](<.gitbook/assets/image (35) (1).png>)
 * Unzip the download to an _empty_ folder **with write access**, such as `c:\games\TEdit`.
-* ![](<.gitbook/assets/image (36).png>)
+* ![](<.gitbook/assets/image (35).png>)
 * NOTE: you may need to delete OLD versions of files from this folder first.
 * Launch the exe file
 * ![](<.gitbook/assets/image (34).png>)
