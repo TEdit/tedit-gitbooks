@@ -10,35 +10,34 @@
 
 ## General shortcuts
 
-* Ctrl+A - Select All  
-* Ctrl+D - Clear Selection  
-* DEL - Delete everything in the selection  
-* Ctrl+C - Copy  
-* Ctrl+V - Paste  
-* Ctrl+Z - Undo  
-* Ctrl+Y - Redo  
-* Ctrl+S - Save  
-* Ctrl+O - Open  
-* Esc - Clear current paste buffer or clear selection  
+* Ctrl+A - Select All &#x20;
+* Ctrl+D - Clear Selection &#x20;
+* DEL - Delete everything in the selection &#x20;
+* Ctrl+C - Copy &#x20;
+* Ctrl+V - Paste &#x20;
+* Ctrl+Z - Undo &#x20;
+* Ctrl+Y - Redo &#x20;
+* Ctrl+S - Save &#x20;
+* Ctrl+O - Open &#x20;
+* Esc - Clear current paste buffer or clear selection &#x20;
 * Arrow Keys - Pan Map
 * Shift + Arrow Key - Pan Map Fast
-* Ctrl+= - Zoom In  
-* Ctrl+- - Zoom Out  
+* Ctrl+= - Zoom In &#x20;
+* Ctrl+- - Zoom Out &#x20;
 
-## Tool keybindings \(can be changed in settings.xml\)
+## Tool keybindings (can be changed in settings.xml)
 
-* A - Arrow \(Chest and Sign Editing\)  
-* B - Brush \(Painting tiles, walls, wires and liquid\)  
-* F - Fill \(Bucket fill tiles and/or walls\)  
-* E - Pencil \(Painting tiles, walls, wires and liquid\)  
-* R - Picker \(Left click picks tile/wall, right click picks tile mask/wall mask\)  
-* P - Point \(Places spawn, dungeon and npc homes\)  
-* S - Selection \(Select and area for editing or copying\)  
-* T - Sprite \(Place a sprite from the sprite list\)  
-* Z - Toggle Eraser \(Toggles erase mode for bucket, pencil and brush\)
-* X - Swap \(Swaps Tiles/Walls & Masks, Liquids based on current Paint Mode; also Shift-X when in Tile & Wall mode\)
+* A - Arrow (Chest and Sign Editing) &#x20;
+* B - Brush (Painting tiles, walls, wires and liquid) &#x20;
+* F - Fill (Bucket fill tiles and/or walls) &#x20;
+* E - Pencil (Painting tiles, walls, wires and liquid) &#x20;
+* R - Picker (Left click picks tile/wall, right click picks tile mask/wall mask) &#x20;
+* P - Point (Places spawn, dungeon and npc homes) &#x20;
+* S - Selection (Select and area for editing or copying) &#x20;
+* T - Sprite (Place a sprite from the sprite list) &#x20;
+* Z - Toggle Eraser (Toggles erase mode for bucket, pencil and brush)
+* X - Swap (Swaps Tiles/Walls & Masks, Liquids based on current Paint Mode; also Shift-X when in Tile & Wall mode)
 * Q - Toggle Tiles when using Picker, Pencil, Brush, and Fill.
 * W - Toggle Walls when using Picker, Pencil, Brush, and Fill.
 
-These keybindings may be changed by editing your [settings.xml](Settings) file.
-
+These keybindings may be changed by editing your [settings.xml](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/configuration/Settings) file.

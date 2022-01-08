@@ -4,15 +4,15 @@
 
 Logs are located in `%appdata%\TEdit\Logs`
 
-![Logs Path](../.gitbook/assets/image%20%2833%29.png)
+![Logs Path](<../.gitbook/assets/image (33).png>)
 
 ## Step 2: Check Requirements
 
-* Check the [Install Requirements](Install-Requirements) page for the requirements to run the editor.
+* Check the [Install Requirements](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/advanced/Install-Requirements) page for the requirements to run the editor.
 * If installing from a zip and not an installer, be sure you extracted all the contents of the zip file.
 * Make sure you have the latest version.
 * If you have a blank window, try re-installing Terraria through Steam.
-* Open task manager \(CTRL+SHIFT+ESC\), switch to the processes tab, sort by name and watch for TEdit.exe to verify the process starts.
+* Open task manager (CTRL+SHIFT+ESC), switch to the processes tab, sort by name and watch for TEdit.exe to verify the process starts.
 
 ## Step 3: Delete Cache
 
@@ -30,4 +30,3 @@ If it still doesn't work, create a ticket with the contents/link of your error l
 Include in your ticket any further information you can give that leads up to the problem as this may help narrow down the issue.
 
 You can find your log through TEdit's View Log option under Help, or in the `%appdata%\TEdit\Logs`. If the contents of `log.txt` is quite large it may be more useful to upload it to one of the paste sites.
-
