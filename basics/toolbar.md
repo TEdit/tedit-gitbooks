@@ -74,7 +74,7 @@ Also known as eye dropper, this tool "picks" things you click on. Things include
 
 If you right-click on things it will pick them for the mask.
 
-The picker tool uses the [Paint Mode](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Active-Tray#wiki-Paint\_Mode\_Tray) to show what you have picked.
+The picker tool uses the [Paint Mode](active-tray.md#tile-and-wall-options) to show what you have picked.
 
 {% content-ref url="active-tray.md" %}
 [active-tray.md](active-tray.md)
@@ -108,7 +108,7 @@ The pencil tool paints only one tile at a time. This makes it exceptionally usef
 * **Hold Right Mouse Button**: you can draw a straight horizontal line, perfect for bridges, tunnels, buildings, etc.
 * **Hold Left AND Right Mouse Button**: at the same time you can draw vertical straight lines.&#x20;
 
-The pencil tool uses the [Paint Mode Tray](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Active-Tray#wiki-Paint\_Mode\_Tray) to select what you paint.
+The pencil tool uses the [Paint Mode Tray ](active-tray.md#tile-and-wall-options)to select what you paint.
 
 {% content-ref url="active-tray.md" %}
 [active-tray.md](active-tray.md)
@@ -117,7 +117,7 @@ The pencil tool uses the [Paint Mode Tray](https://app.gitbook.com/s/-MX8HQ4nI9Y
 ## Brush Tool \[B]
 
 {% hint style="info" %}
-The brush tool uses the [Paint Mode Tray](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Active-Tray#wiki-Paint\_Mode\_Tray) to select what you paint and the [Size Tray](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Active-Tray#wiki-Size\_Tray) to select the size and shape of your brush strokes.
+The brush tool uses the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to select what you paint and the [Size Tray](active-tray.md#size-tray) to select the size and shape of your brush strokes.
 {% endhint %}
 
 #### Options
@@ -162,7 +162,7 @@ You can also use the selection tool to contain a fill action.
 
 ![TEdit\_Fill\_Selection](../.gitbook/assets/tedit\_fill\_selection.png)
 
-The fill tool use the [Paint Mode Tray](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Active-Tray#wiki-Paint\_Mode\_Tray) to select what to paint.
+The fill tool use the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to select what to paint.
 
 ## Point Tool \[P]
 
@@ -234,4 +234,4 @@ The morph tool will change whatever it is used on into the biome that is selecte
 
 The tool will work differently at different heights. Try it out! Note that if you create enough of a biome the music will change to that biome type and monsters of that biome will spawn.
 
-The morph tool uses the [Active Tray](active-tray.md) to select the size and shape of your brush strokes, and also uses the same line-drawing functions as the pencil and brush tools.
+The morph tool uses the [Active Tray](active-tray.md#paint-mode-tray) to select the size and shape of your brush strokes, and also uses the same line-drawing functions as the pencil and brush tools.
