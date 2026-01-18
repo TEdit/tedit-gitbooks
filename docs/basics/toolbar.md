@@ -1,10 +1,14 @@
+---
+sidebar_position: 3
+---
+
 # Tools
 
 The tool section is located on the left of the editor, below the basic menu buttons.
 
-![Toolbar](<../.gitbook/assets/toolbar_full.png>)
+![Toolbar](/img/toolbar_full.png)
 
-## Arrow Tool \[A]
+## Arrow Tool [A]
 
 The arrow tool looks like an arrow cursor, the same as the one your used to using when using your computer.
 
@@ -15,25 +19,17 @@ The arrow tool looks like an arrow cursor, the same as the one your used to usin
 | `hover`      | Show tile info in [Information Bar](menu-and-info-bars.md#info-bar). |
 | `rightclick` | Show chest or sign editor for tile under cursor.                     |
 
-![](../.gitbook/assets/tedit\_arrow\_tool.png)
+![](/img/tedit_arrow_tool.png)
 
 With the arrow tool selected it is impossible to make any accidental changes to the map and it should only display a 1x1 template. This make the arrow tool useful for getting information from individual tiles via the [Information Bar](menu-and-info-bars.md#info-bar), which is displayed in the bottom left corner.
 
-With the arrow tool selected you can also right-click on chests and signs to see what is inside and edit them. See the [Chest Editor](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Chest%20Editor) page for more details.
+With the arrow tool selected you can also right-click on chests and signs to see what is inside and edit them. See the [Chest Editor](../sidebar-tools/chest-editor.md) page for more details.
 
-{% content-ref url="../sidebar-tools/chest-editor.md" %}
-[chest-editor.md](../sidebar-tools/chest-editor.md)
-{% endcontent-ref %}
-
-{% content-ref url="menu-and-info-bars.md" %}
-[menu-and-info-bars.md](menu-and-info-bars.md)
-{% endcontent-ref %}
-
-## Selection Tool \[S]
+## Selection Tool [S]
 
 The selection tool button looks like a blue square.
 
-![](../.gitbook/assets/tedit\_selection\_tool.png)
+![](/img/tedit_selection_tool.png)
 
 #### Options
 
@@ -49,19 +45,19 @@ When using this tool you can select a section of the map (as a rectangle) by hol
 
 Here is a selection rectangle drawn in some empty space/air:
 
-![](../.gitbook/assets/tedit\_selection\_area.png)
+![](/img/tedit_selection_area.png)
 
 While there is a selection rectangle present painting can only be done inside that area; if you want to paint elsewhere you must first remove the rectangle. You can do this by right-clicking when you are using the tool.
 
-![](../.gitbook/assets/tedit\_selection\_drawing.png)
+![](/img/tedit_selection_drawing.png)
 
 This tool is also used to copy part of the map. To do this select what you want to copy, then use the copy button on the toolbar, the copy function in the `menubar`, or press `ctrl+c`.
 
 ## Picker Tool
 
-{% hint style="warning" %}
+:::warning
 Picking furniture and sprites may lead to bugs.
-{% endhint %}
+:::
 
 #### Options
 
@@ -70,23 +66,17 @@ Picking furniture and sprites may lead to bugs.
 | `leftclick`  | Set the tile, wall and liquid selection from the tile under the cursor. |
 | `rightclick` | Set the mask from the tile under the cursor.                            |
 
-Also known as eye dropper, this tool "picks" things you click on. Things include tiles, walls, and liquids.&#x20;
+Also known as eye dropper, this tool "picks" things you click on. Things include tiles, walls, and liquids.
 
 If you right-click on things it will pick them for the mask.
 
 The picker tool uses the [Paint Mode](active-tray.md#tile-and-wall-options) to show what you have picked.
 
-{% content-ref url="active-tray.md" %}
-[active-tray.md](active-tray.md)
-{% endcontent-ref %}
-
-
-
-## Pencil Tool \[E]
+## Pencil Tool [E]
 
 The pencil tool looks like a pencil.
 
-![](../.gitbook/assets/tedit\_pencil\_tool.png)
+![](/img/tedit_pencil_tool.png)
 
 The pencil tool paints only one tile at a time. This makes it exceptionally useful for painting fine details or irregular shapes.
 
@@ -99,26 +89,22 @@ The pencil tool paints only one tile at a time. This makes it exceptionally usef
 | `rightclick+drag`           | Draw a horizontal straight line from starting y value. |
 | `leftclick+rightclick+drag` | Draw a vertical straight line from starting x value.   |
 
-![](../.gitbook/assets/tedit\_pencil\_drawing.png)
+![](/img/tedit_pencil_drawing.png)
 
 #### How To: Straight Line Drawing
 
 * **Click start position, hold shift, click end position:** You can also draw a line from one point to another by clicking your starting point, holding Shift and clicking on your end point.
 * **Left Mouse Button**: you will have free drawing - i.e. you can draw in any way you like.
 * **Hold Right Mouse Button**: you can draw a straight horizontal line, perfect for bridges, tunnels, buildings, etc.
-* **Hold Left AND Right Mouse Button**: at the same time you can draw vertical straight lines.&#x20;
+* **Hold Left AND Right Mouse Button**: at the same time you can draw vertical straight lines.
 
-The pencil tool uses the [Paint Mode Tray ](active-tray.md#tile-and-wall-options)to select what you paint.
+The pencil tool uses the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to select what you paint.
 
-{% content-ref url="active-tray.md" %}
-[active-tray.md](active-tray.md)
-{% endcontent-ref %}
+## Brush Tool [B]
 
-## Brush Tool \[B]
-
-{% hint style="info" %}
+:::info
 The brush tool uses the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to select what you paint and the [Size Tray](active-tray.md#size-tray) to select the size and shape of your brush strokes.
-{% endhint %}
+:::
 
 #### Options
 
@@ -131,19 +117,19 @@ The brush tool uses the [Paint Mode Tray](active-tray.md#tile-and-wall-options) 
 
 The brush tool looks like a brush.
 
-![](../.gitbook/assets/tedit\_brush\_tool.png)
+![](/img/tedit_brush_tool.png)
 
 The brush tool can paint a wide area of blocks.
 
-![](../.gitbook/assets/tedit\_brush\_drawing.png)
+![](/img/tedit_brush_drawing.png)
 
 Like the pencil tool, the brush can use the line drawing mouse buttons.
 
-## Fill Tool \[F]
+## Fill Tool [F]
 
 The fill tool looks like tipped bucket with paint coming out.
 
-![TEdit\_Fill\_Tool](../.gitbook/assets/tedit\_fill\_tool.png)
+![TEdit_Fill_Tool](/img/tedit_fill_tool.png)
 
 #### Options
 
@@ -154,21 +140,21 @@ The fill tool looks like tipped bucket with paint coming out.
 
 The fill tool replaces tiles, walls, liquids and empty space with other tiles, walls and liquids. Currently, you can do a contiguous fill. This means that all tiles, walls, liquids, and space of the type you have clicked on will be replaced as long as there is a connection to the original.
 
-![TEdit\_Fill\_Contiguous\_Before](../.gitbook/assets/tedit\_fill\_contiguous\_before.png)
+![TEdit_Fill_Contiguous_Before](/img/tedit_fill_contiguous_before.png)
 
-![TEdit\_Fill\_Contiguous\_After](../.gitbook/assets/tedit\_fill\_contiguous\_after.png)
+![TEdit_Fill_Contiguous_After](/img/tedit_fill_contiguous_after.png)
 
 You can also use the selection tool to contain a fill action.
 
-![TEdit\_Fill\_Selection](../.gitbook/assets/tedit\_fill\_selection.png)
+![TEdit_Fill_Selection](/img/tedit_fill_selection.png)
 
 The fill tool use the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to select what to paint.
 
-## Point Tool \[P]
+## Point Tool [P]
 
-![Point Tool](<../.gitbook/assets/toolbar_point_tool.png>)
+![Point Tool](/img/toolbar_point_tool.png)
 
-![Point Tool Selected](<../.gitbook/assets/active_tray_point_selected.png>)
+![Point Tool Selected](/img/active_tray_point_selected.png)
 
 #### Options
 
@@ -178,7 +164,7 @@ The fill tool use the [Paint Mode Tray](active-tray.md#tile-and-wall-options) to
 
 This tool places points on the map by chooses the point from the drop down menu and left-clicking on the map where you want it. The points that the tool places look like this on the map:
 
-![TEdit\_Spawn\_Point\_Drawing](../.gitbook/assets/tedit\_spawn\_point\_drawing.png)
+![TEdit_Spawn_Point_Drawing](/img/tedit_spawn_point_drawing.png)
 
 The spawn point is where people first load up (if they have not set a bed). This tool is useful if your town is not near the default spawn point, or if you are doing a custom map and want them to start in a particular place. Make sure it is not placed on/near any tiles you wish to keep however, since the game destroys any tiles (but not sprites or walls) that are located at the spawn point when someone enters the game there.
 
@@ -188,22 +174,22 @@ The NPC points are the points where those NPCs sleeps at night and tends to patr
 
 The Old Man point is particularly useful as you can have him spawn in or near an arena you have built especially to fight his alter ego. He could even have his own room in your base if you so choose, but I wouldn't recommend talking to him at night!
 
-## Sprite Placer Tool \[T]
+## Sprite Placer Tool [T]
 
 This tool looks like a black square with an 'S' in the middle.
 
-![sprite-tool](../.gitbook/assets/sprite-tool2.png)
+![sprite-tool](/img/sprite-tool2.png)
 
 #### Options
 
 | Command                     | Activity                                                        |
 | --------------------------- | --------------------------------------------------------------- |
 | `leftclick`                 | Place a single instance of the sprite under the cursor.         |
-| `leftclick+drag`            | Draw a line following cursor. **\[1]**                          |
-| `shift+leftclick`           | Draw a straight line between clicked points. **\[1]**           |
-| `rightclick+drag`           | Draw a horizontal straight line from starting y value. **\[1]** |
-| `leftclick+rightclick+drag` | Draw a vertical straight line from starting x value. **\[1]**   |
-|                             | **\[1]** _Applies to 1x1 sprites only._                         |
+| `leftclick+drag`            | Draw a line following cursor. **[1]**                          |
+| `shift+leftclick`           | Draw a straight line between clicked points. **[1]**           |
+| `rightclick+drag`           | Draw a horizontal straight line from starting y value. **[1]** |
+| `leftclick+rightclick+drag` | Draw a vertical straight line from starting x value. **[1]**   |
+|                             | **[1]** _Applies to 1x1 sprites only._                         |
 
 The sprite placer tool is used with the panel on the right of the editor to place sprites. While most sprites can only be placed one at a time, small, 1x1 sprites such as grasses and platforms can be drawn in strokes, much like when using the pencil or brush tools. And like those tools, you can use the same straight line drawing functions for drawing horizontal (right-click), vertical (left-click + right-click) or point-to-point (Shift + left-click) lines.
 
@@ -217,9 +203,9 @@ Use the drop down to select a tile type, then the grid to select a style. All st
 
 ## Morph Tool
 
-![Morph Tool](<../.gitbook/assets/toolbar_morph_tool.png>)
+![Morph Tool](/img/toolbar_morph_tool.png)
 
-![Morph Tool Selected](<../.gitbook/assets/active_tray_morph_selected.png>)
+![Morph Tool Selected](/img/active_tray_morph_selected.png)
 
 #### Options
 

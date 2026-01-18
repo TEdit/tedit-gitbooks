@@ -1,0 +1,65 @@
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+const sidebars = {
+  tutorialSidebar: [
+    {
+      type: 'doc',
+      id: 'intro',
+      label: 'TEdit Documentation',
+    },
+    {
+      type: 'doc',
+      id: 'install-requirements',
+      label: 'Install Requirements',
+    },
+    {
+      type: 'category',
+      label: 'Basics',
+      items: [
+        'basics/getting-started',
+        'basics/basics',
+        'basics/toolbar',
+        'basics/active-tray',
+        'basics/menu-and-info-bars',
+        'basics/tips',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Sidebar Tools',
+      items: [
+        'sidebar-tools/world-properties',
+        'sidebar-tools/clipboard',
+        'sidebar-tools/chest-editor',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Plugins',
+      items: [
+        'plugins/plugins',
+        'plugins/house-generator-plugin',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Configuration',
+      items: [
+        'configuration/settings',
+        'configuration/saves-and-backups',
+        'configuration/shortcuts-and-keybindings',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Advanced',
+      items: [
+        'advanced/developing-and-contributing-to-tedit',
+        'advanced/troubleshooting',
+        'advanced/corrupted-world-recovery',
+        'advanced/image-schematics',
+      ],
+    },
+  ],
+};
+
+export default sidebars;

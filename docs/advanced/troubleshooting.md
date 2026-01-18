@@ -1,14 +1,18 @@
+---
+sidebar_position: 2
+---
+
 # Troubleshooting
 
 ## Step 1: Check the Error Log
 
 Logs are located in `%appdata%\TEdit\Logs`
 
-![Logs Path](<../.gitbook/assets/troubleshooting_logs_path.png>)
+![Logs Path](/img/troubleshooting_logs_path.png)
 
 ## Step 2: Check Requirements
 
-* Check the [Install Requirements](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/advanced/Install-Requirements) page for the requirements to run the editor.
+* Check the [Install Requirements](../install-requirements.md) page for the requirements to run the editor.
 * If installing from a zip and not an installer, be sure you extracted all the contents of the zip file.
 * Make sure you have the latest version.
 * If you have a blank window, try re-installing Terraria through Steam.
@@ -19,7 +23,7 @@ Logs are located in `%appdata%\TEdit\Logs`
 1. Delete the cache folder `%appdata%\tedit`
 2. Delete the settings folder `%localappdata%\tedit`
 3. Delete the folder you have unzipped TEdit into and download a fresh copy from [releases](https://github.com/TEdit/Terraria-Map-Editor/releases).
-4. Unzip the new download into an empty folder, such as `c:\games\tedit`.S
+4. Unzip the new download into an empty folder, such as `c:\games\tedit`.
 
 ## Step 4: Discord or GitHub Issue
 

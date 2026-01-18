@@ -1,8 +1,12 @@
+---
+sidebar_position: 5
+---
+
 # Menu and Info Bars
 
-{% hint style="danger" %}
+:::danger
 This page is outdated.
-{% endhint %}
+:::
 
 ## Menu
 
@@ -10,9 +14,9 @@ The Menu Bar is located at the top left of the editor.
 
 ### File
 
-The file menu has your usual file related functions; New, Open, Save, Save As, and Exit. Some of these functions are also on the [Toolbar](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Toolbar) and have [Shortcuts and Keybindings](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Shortcuts%20and%20Keybindings).
+The file menu has your usual file related functions; New, Open, Save, Save As, and Exit. Some of these functions are also on the [Toolbar](toolbar.md) and have [Shortcuts and Keybindings](../configuration/shortcuts-and-keybindings.md).
 
-![File Menu](<../.gitbook/assets/menu_file.png>)
+![File Menu](/img/menu_file.png)
 
 #### New Function
 
@@ -38,72 +42,72 @@ Exit quits the program.
 
 ### Edit
 
-![Edit Menu](../.gitbook/assets/menu_edit.png)
+![Edit Menu](/img/menu_edit.png)
 
-The Edit menu is full of basic functions like Undo, Redo, Copy, Paste, Delete. These functions are also on the toolbar and have [shortcuts](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/shortcuts).
+The Edit menu is full of basic functions like Undo, Redo, Copy, Paste, Delete. These functions are also on the toolbar and have [shortcuts](../configuration/shortcuts-and-keybindings.md).
 
 Undo reverts last change you made (or the last redo). The undo function can be used multiple times in a row to revert multiple changes. Useful.
 
 Redo reverts the undo.
 
-Copy temporarily saves the selection you have (using the \[Selection Tool]) to the [Clipboard](https://app.gitbook.com/s/-MX8HQ4nI9YJFx-UUGZo/basics/Clipboard). You can then paste from the clipboard or using the paste function. You can make a permanent copy by exporting the selection as a schematic to use in other maps or even to send
+Copy temporarily saves the selection you have (using the [Selection Tool](toolbar.md#selection-tool-s)) to the [Clipboard](../sidebar-tools/clipboard.md). You can then paste from the clipboard or using the paste function. You can make a permanent copy by exporting the selection as a schematic to use in other maps or even to send
 
 ### Layers
 
-![Layers Menu](<../.gitbook/assets/menu_layers.png>)
+![Layers Menu](/img/menu_layers.png)
 
 ### Plugins
 
-![Plugins Menu](<../.gitbook/assets/menu_plugins.png>)
+![Plugins Menu](/img/menu_plugins.png)
 
 ### Help
 
-![Help Menu](<../.gitbook/assets/menu_help.png>)
+![Help Menu](/img/menu_help.png)
 
 ## Info Bar
 
 Starting from the left, the Information Bar comprises of the Position Box, the Tile Box, the Wall Box, the Extra Box, and the Frame Box.
 
-![Info Bar](<../.gitbook/assets/infobar_full.png>)
+![Info Bar](/img/infobar_full.png)
 
 ### Position Box
 
-![Position Box](<../.gitbook/assets/infobar_position.png>)
+![Position Box](/img/infobar_position.png)
 
 This box gives information on the current position of the cursor on the map. The first number is the x-axis co-ordinate and the second number is the y-axis co-ordinate. The top-left is 0,0.
 
 ### Tile Box
 
-![Tile Box](<../.gitbook/assets/infobar_tile.png>)
+![Tile Box](/img/infobar_tile.png)
 
 The Tile Box gives you information on which tile type is located underneath the cursor.
 
 ### Wall Box
 
-![Wall Box](<../.gitbook/assets/infobar_wall.png>)
+![Wall Box](/img/infobar_wall.png)
 
 The Wall Box gives you information on which wall type is located underneath the cursor.
 
 ### Extra box
 
-![Extra Box](<../.gitbook/assets/infobar_extra.png>)
+![Extra Box](/img/infobar_extra.png)
 
 The Extra Box gives you information on whether there is a liquid and/or wire located underneath the cursor. The number next to a liquid is the amount of liquid in that block, where 255 represents a full block of liquid.
 
 ### Frame Box
 
-![Frame Box](<../.gitbook/assets/infobar_frame.png>)
+![Frame Box](/img/infobar_frame.png)
 
 The Frame Box gives information about the framing of the tile beneath the cursor. This is useful for the developers but not so much for the users of the editor.
 
 ### Paint Color Box
 
-![Paint Color Box](<../.gitbook/assets/infobar_paint_color.png>)
+![Paint Color Box](/img/infobar_paint_color.png)
 
 The Paint Color Box shows the paint colors of the tile or wall under the cursor.
 
 ### Selection Box
 
-![Selection Box](<../.gitbook/assets/infobar_selection.png>)
+![Selection Box](/img/infobar_selection.png)
 
 The selection box shows the size of the current marquee selection. If the box is highlighted yellow, the selection is active and editing can only be done inside the selection. You may also copy the contents of the selection to the clipboard with `ctrl+c`

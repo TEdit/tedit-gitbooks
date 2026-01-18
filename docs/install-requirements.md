@@ -1,23 +1,27 @@
+---
+sidebar_position: 2
+---
+
 # Install Requirements
 
-{% hint style="danger" %}
+:::danger
 If you are on Mac OS, Linux or Mobile, you may wish to try the lightweight browser editor at [https://www.terraria-map-editor.com](https://www.terraria-map-editor.com).
-{% endhint %}
+:::
 
 * Download the latest release from [https://github.com/TEdit/Terraria-Map-Editor/releases/latest](https://github.com/TEdit/Terraria-Map-Editor/releases/latest)
 * Scroll to the bottom, and ensure you download the TEdit(version).zip File
-* ![](<.gitbook/assets/image (35) (1).png>)
+* ![Download TEdit Version](/img/install_download_version.png)
 * Unzip the download to an _empty_ folder **with write access**, such as `c:\games\TEdit`.
-* ![](<.gitbook/assets/image (35).png>)
+* ![Unzip Folder](/img/install_unzip_folder.png)
 * NOTE: you may need to delete OLD versions of files from this folder first.
 * Launch the exe file
-* ![](<.gitbook/assets/image (34).png>)
+* ![Launch Exe](/img/install_launch_exe.png)
 
 ## REQUIRED
 
-{% hint style="danger" %}
+:::danger
 These are requirements these, if you are having issues please uninstall/reinstall the following dependencies.
-{% endhint %}
+:::
 
 * [Latest DotNet Framework](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
 * [DirectX 11](https://support.microsoft.com/en-us/kb/179113)
@@ -31,13 +35,13 @@ These are requirements these, if you are having issues please uninstall/reinstal
   * 32bit: `Program Files\Steam\steamapps\common\Terraria\content`
 * Steam and Gog versions of Terraria normally work. However, you might be able to get other types to work with the steps below.
 * If you don't have Terraria installed on the PC you are using there will be no sprite visualization, but the application should still work if you meet the other requirements.
-*   If you don't have Terraria installed but have a copy of Terraria/Content e.g. shared network drive, virtual machine, USB drive, etc., you can uncomment and edit `<AltC>` in settings.xml to point to your custom Terraria/Content location.
+* If you don't have Terraria installed but have a copy of Terraria/Content e.g. shared network drive, virtual machine, USB drive, etc., you can uncomment and edit `<AltC>` in settings.xml to point to your custom Terraria/Content location.
 
     NOTE: Remove the `<!--` and `-->` to uncomment the line
 
-![](<.gitbook/assets/altc (2) (2).png>)
+![](/img/altc.png)
 
-![](<.gitbook/assets/gog (2).png>)
+![](/img/gog.png)
 
 ## Known Limitations
 
