@@ -4,10 +4,6 @@ sidebar_position: 2
 
 # Install Requirements
 
-:::danger
-If you are on Mac OS, Linux or Mobile, you may wish to try the lightweight browser editor at [https://www.terraria-map-editor.com](https://www.terraria-map-editor.com).
-:::
-
 * Download the latest release from [https://github.com/TEdit/Terraria-Map-Editor/releases/latest](https://github.com/TEdit/Terraria-Map-Editor/releases/latest)
 * Scroll to the bottom, and ensure you download the TEdit(version).zip File
 * ![Download TEdit Version](/img/install_download_version.png)
@@ -16,6 +12,10 @@ If you are on Mac OS, Linux or Mobile, you may wish to try the lightweight brows
 * NOTE: you may need to delete OLD versions of files from this folder first.
 * Launch the exe file
 * ![Launch Exe](/img/install_launch_exe.png)
+
+:::danger
+If you are on Mac OS, Linux or Mobile, you may wish to try the lightweight browser editor at [https://www.terraria-map-editor.com](https://www.terraria-map-editor.com).
+:::
 
 ## REQUIRED
 
