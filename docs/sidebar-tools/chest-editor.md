@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Chest Editor
 
-The Chest utility tab is used for editing the contents of [storage containers](https://terraria.fandom.com/wiki/Storage_items).
+The Chest utility tab is used for editing the contents of [storage containers](https://terraria.wiki.gg/wiki/Storage_items).
 
-The first column is the quantity, the second column is the [prefix](https://terraria.fandom.com/wiki/Modifiers) and the third column is the item.
+The first column is the quantity, the second column is the [prefix](https://terraria.wiki.gg/wiki/Modifiers) and the third column is the item.
 
 Ambiguous prefixes are differentiated as (A)ccessory, (C)ommon weapon or (R)anged weapon prefixes.
 
@@ -14,5 +14,5 @@ Ambiguous prefixes are differentiated as (A)ccessory, (C)ommon weapon or (R)ange
 
 #### References
 
-* [https://terraria.fandom.com/wiki/Storage_items](https://terraria.fandom.com/wiki/Storage_items)
-* [https://terraria.fandom.com/wiki/Modifiers](https://terraria.fandom.com/wiki/Modifiers)
+* [https://terraria.wiki.gg/wiki/Storage_items](https://terraria.wiki.gg/wiki/Storage_items)
+* [https://terraria.wiki.gg/wiki/Modifiers](https://terraria.wiki.gg/wiki/Modifiers)

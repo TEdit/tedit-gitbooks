@@ -10,6 +10,6 @@ Ambiguous prefixes are differentiated as \(A\)ccessory, \(C\)ommon weapon or \(R
 
 #### References
 
-* [https://terraria.fandom.com/wiki/Storage\_items](https://terraria.fandom.com/wiki/Storage_items)
-* [https://terraria.fandom.com/wiki/Modifiers](https://terraria.fandom.com/wiki/Modifiers)
+* [https://terraria.wiki.gg/wiki/Storage\_items](https://terraria.wiki.gg/wiki/Storage_items)
+* [https://terraria.wiki.gg/wiki/Modifiers](https://terraria.wiki.gg/wiki/Modifiers)
 
