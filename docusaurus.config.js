@@ -33,7 +33,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          editUrl: 'https://github.com/TEdit/tedit-gitbooks/tree/main/',
+          editUrl: 'https://github.com/TEdit/tedit-docs/tree/main/',
         },
         blog: false,
         theme: {
